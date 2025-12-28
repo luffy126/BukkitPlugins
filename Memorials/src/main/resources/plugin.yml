@@ -2,3 +2,4 @@ main: cm.simvnvevo.memorials.MemorialsMain
 version: 1.0.0
 name: Memorials
 api-version: 1.20
+depends: [WorldEdit]

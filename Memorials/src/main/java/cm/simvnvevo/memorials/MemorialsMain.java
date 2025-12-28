@@ -5,6 +5,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class MemorialsMain extends JavaPlugin {
 
+
+
     @Override
     public void onEnable() {
         Bukkit.getServer().getConsoleSender().sendMessage("Activando plugin Memorials...");
